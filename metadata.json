@@ -1,0 +1,9 @@
+
+{
+  "name": "Zappy Vendor Tracker",
+  "description": "A comprehensive tracking tool for vendors to manage event day workflows including check-in, OTP verification, setup progress, and closing confirmation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
